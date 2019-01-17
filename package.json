@@ -230,7 +230,7 @@
     "style-loader": "0.23.1",
     "url-loader": "1.1.2",
     "webpack": "3.8.1",
-    "webpack-dev-middleware": "2.0.6",
+    "webpack-dev-middleware": "3.5.1",
     "webpack-dev-server": "2.9.4",
     "webpack-hot-middleware": "2.22.2",
     "webpack-merge": "4.1.2",
